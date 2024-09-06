@@ -102,6 +102,8 @@ ApiMan handles JSON data to communicate with external APIs and manage in-game da
         "Forcess0"
     ],
     "PlayersData": {
+        //Full player list
+        "Notch":{},
         "Forcess0": {
             "name": "Forcess0",
             "uuid": "4fdc3c45-3bd0-3b7d-96d6-35174688d372",
@@ -175,7 +177,7 @@ ApiMan handles JSON data to communicate with external APIs and manage in-game da
                         "durability": 0,
                         "enchantments": {}
                     },
-                    // More items here
+                    // Player's full inventory will be listed here
                 ]
             }
         }
